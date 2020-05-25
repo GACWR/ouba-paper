@@ -1,4 +1,4 @@
-\documentclass[10pt, titlepage, twocolumn]{report}
+\documentclass[10pt, titlepage, twocolumn]{article}
 
 \usepackage{titlesec}
 \usepackage{fancyhdr}
@@ -133,7 +133,7 @@ There exists several security monitoring tools focused on providing User and Ent
 \hspace*{15pt}
 Many UBA platforms take a "block box" approach to modeling. The very concept of modeling can vary across UBA tools, though more concretely defined in mathematics. Often UBA vendors claim their models are IP, which is an understandable business decision to make. However, ramifications of models being proprietary include vendor lock-in, decreased model developer-friendliness, and hindering community growth \& participation. 
 
-Also, some SOCs must use multiple tools to gain the benefits of UBA, but this can be expensive depending on the vendor. OpenUBA aims to solve these problems by providing
+Also, some SOCs must use multiple tools to gain the benefits of UBA, but this can be expensive depending on the vendor. OpenUBA \cite{ouba} aims to solve these problems by providing
 
 \begin{enumerate}
 	\item Open/"white box" model standard
@@ -522,5 +522,11 @@ Having community driven intel is not uncommon in several security circles. Isola
 SOCs can also begin to collaboratively model security use cases. For example, knowing how anomalous this proxy traffic for a user in your organization, is different when compared to other companies in the same industry. Intersoc collaboration is still an active area of research.
 
 
+\begin{thebibliography}{9}
+
+\bibitem{ouba}Georgia Cyber Warfare Range \\
+OpenUBA, http://openuba.org
+
+\end{thebibliography}
 
 \end{document}        
