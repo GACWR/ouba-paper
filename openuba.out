@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.0.1}{Motivation}{}% 1
+\BOOKMARK [2][-]{subsection.0.1.1}{Problems}{section.0.1}% 2
+\BOOKMARK [1][-]{section.0.2}{Modeling}{}% 3
+\BOOKMARK [2][-]{subsection.0.2.1}{Mapping Mitre Att\046ck}{section.0.2}% 4
+\BOOKMARK [2][-]{subsection.0.2.2}{Defining models}{section.0.2}% 5
+\BOOKMARK [2][-]{subsection.0.2.3}{Model Library}{section.0.2}% 6
+\BOOKMARK [2][-]{subsection.0.2.4}{Common Modules}{section.0.2}% 7
+\BOOKMARK [2][-]{subsection.0.2.5}{Model Groups}{section.0.2}% 8
+\BOOKMARK [2][-]{subsection.0.2.6}{Model Return}{section.0.2}% 9
+\BOOKMARK [2][-]{subsection.0.2.7}{Sequence Models}{section.0.2}% 10
+\BOOKMARK [2][-]{subsection.0.2.8}{Model Versioning}{section.0.2}% 11
+\BOOKMARK [2][-]{subsection.0.2.9}{Rules}{section.0.2}% 12
+\BOOKMARK [2][-]{subsection.0.2.10}{Storage}{section.0.2}% 13
+\BOOKMARK [1][-]{section.0.3}{Logs}{}% 14
+\BOOKMARK [2][-]{subsection.0.3.1}{ID Feature}{section.0.3}% 15
+\BOOKMARK [2][-]{subsection.0.3.2}{Dormancy}{section.0.3}% 16
+\BOOKMARK [1][-]{section.0.4}{Risk}{}% 17
+\BOOKMARK [2][-]{subsection.0.4.1}{Risk Calculation}{section.0.4}% 18
+\BOOKMARK [1][-]{section.0.5}{Case Feedback}{}% 19
+\BOOKMARK [2][-]{subsection.0.5.1}{Model Feedback}{section.0.5}% 20
+\BOOKMARK [2][-]{subsection.0.5.2}{Rule Feedback}{section.0.5}% 21
+\BOOKMARK [1][-]{section.0.6}{Future Work}{}% 22
+\BOOKMARK [2][-]{subsection.0.6.1}{Shared SOC}{section.0.6}% 23
+\BOOKMARK [2][-]{subsection.0.6.2}{Distributed Intel}{section.0.6}% 24
+\BOOKMARK [2][-]{subsection.0.6.3}{Cross-SOC models}{section.0.6}% 25
